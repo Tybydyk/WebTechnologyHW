@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(247, 244, 205);
+}
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+img{
+    width: 600px;
+}
+img.c1 {
+    max-width: 30%;
+    height: auto;
+    vertical-align: middle;
+}
+h1, h2 {
+    color: #03581cf8;
+    text-align: center;
+}
+h3{
+    color: #951a5af8;
+    text-align: left;
+}
+ul {
+    list-style: square ;
+    text-align: left;
+}
+a {
+    color: blue;
+}
+a:hover {
+    color: #500463;
+}
